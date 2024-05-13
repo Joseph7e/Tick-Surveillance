@@ -1,5 +1,5 @@
 # Tick-Surveillance
-Bioinformatic workflows and tools for DNA sequencing analysis of tick species.
+Bioinformatic workflows and tools for DNA sequencing analysis of tick species and their 'microbiome'.
  
  
 ## Introduction to working in the command-line enviornment
